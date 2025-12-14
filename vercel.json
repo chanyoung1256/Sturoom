@@ -1,3 +1,5 @@
 {
-  "buildCommand": "next build --no-lint"
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "framework": null
 }
